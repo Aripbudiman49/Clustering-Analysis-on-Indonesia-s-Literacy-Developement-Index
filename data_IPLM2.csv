@@ -1,0 +1,489 @@
+﻿Provinsi;Kabupaten;Indeks Pembangunan Literasi Masyarakat;Rasio Ketercukupan Tenaga Perpustakaan;Tingkat Kunjungan Masyarakat per hari;Perpustakaan yang dibina sesuai SNP;Keterlibatan Masyarakat dalam Kegiatan Sosialisasi Perpustakaan;Jumlah Anggota Perpustakaan;Pemerataan Layanan Perpustakaan;Ketercukupan Koleksi Perpustakaan
+Aceh;Simeulue;55.22;0.3162;0.0401;0.9518;1;1;0.2976;0.2595
+Aceh;Aceh Singkil;66.77;1;0.0791;0.8167;1;1;0.406;0.3721
+Aceh;Aceh Selatan;50.96;0.2738;0.3094;0.406;1;1;0.3124;0.2654
+Aceh;Aceh Tenggara;62.67;1;0.0129;1;1;1;0.144;0.2303
+Aceh;Aceh Timur;45.29;0.0173;0.0216;0.927;1;1;0.1626;0.0416
+Aceh;Aceh Tengah;56.02;1;0.0552;0.3371;1;1;0.2494;0.2798
+Aceh;Aceh Barat;62.97;0.5299;0.2588;0.9358;1;1;0.2717;0.4117
+Aceh;Aceh Besar;71.2;1;0.1487;1;1;1;0.2036;0.6316
+Aceh;Pidie;52.02;0.2081;0.0121;1;1;1;0.308;0.113
+Aceh;Bireuen;56.13;0.5632;0.0291;1;1;1;0.2061;0.1305
+Aceh;Aceh Utara;61.63;1;0.0213;1;1;1;0.1723;0.1202
+Aceh;Aceh Barat Daya;72.17;1;0.0564;1;1;1;0.3654;0.6301
+Aceh;Gayo Lues;67.52;1;0.1881;0.6726;1;1;0.465;0.4003
+Aceh;Aceh Tamiang;58.84;1;0.0516;0.4342;1;1;0.4138;0.2192
+Aceh;Nagan Raya;52.28;0.0721;0.013;1;1;1;0.4008;0.1739
+Aceh;Aceh Jaya;70.22;1;0.202;1;1;1;0.2516;0.4618
+Aceh;Bener Meriah;47.07;0.0593;0.0317;0.5447;1;1;0.351;0.3083
+Aceh;Pidie Jaya;64.08;1;0.1407;0.2791;1;1;0.3441;0.7215
+Aceh;Kota Banda Aceh;69.96;1;0.0355;1;1;1;0.6842;0.1775
+Aceh;Kota Sabang;74.66;1;0.5358;1;1;1;0.3131;0.3776
+Aceh;Kota Langsa;61.79;0.2985;0.0797;1;1;1;0.5967;0.3502
+Aceh;Kota Lhokseumawe;68.25;1;0.0353;1;1;1;0.554;0.188
+Aceh;Kota Subulussalam;67.26;1;0.0383;1;1;1;0.3333;0.3368
+Sumatera Utara;Nias;47.89;0.067;0.074;0.8644;1;1;0.2081;0.1391
+Sumatera Utara;Mandailing Natal;41.87;0.0464;0.0673;0.5826;1;1;0.2124;0.0224
+Sumatera Utara;Tapanuli Selatan;69.36;1;0.1695;1;0.5221;1;0.4214;0.7424
+Sumatera Utara;Tapanuli Tengah;40.53;0;0.0296;0.5462;1;1;0.1771;0.0841
+Sumatera Utara;Tapanuli Utara;52.8;0.0707;0.0649;1;1;1;0.1355;0.4253
+Sumatera Utara;Toba Samosir;61.36;0.33;0.0655;1;1;1;0.7748;0.1247
+Sumatera Utara;Labuhan Batu;51.09;0.1378;0.0427;1;1;1;0.2397;0.1561
+Sumatera Utara;Asahan;51.69;0.092;0.0444;1;1;1;0.233;0.2489
+Sumatera Utara;Simalungun;51.52;0.0049;0.0359;1;1;1;0.5236;0.0421
+Sumatera Utara;Dairi;48.29;0.0238;0.0388;1;1;1;0.2721;0.0458
+Sumatera Utara;Karo;53.55;0.3016;0.0287;1;1;1;0.3181;0.1003
+Sumatera Utara;Deli Serdang;50.57;0.1151;0.0516;1;1;1;0.1593;0.2137
+Sumatera Utara;Langkat;48.86;0.0337;0.063;1;1;1;0.1616;0.1618
+Sumatera Utara;Nias Selatan;43.47;0.0268;0.0321;0.7824;1;1;0.1212;0.0803
+Sumatera Utara;Humbang Hasundutan;48.16;0.0247;0.1211;1;1;1;0.1565;0.0691
+Sumatera Utara;Pakpak Bharat;58.36;0;0.2646;0.7808;1;1;0.7566;0.283
+Sumatera Utara;Samosir;62.94;0.0718;0.0495;1;1;1;0.2843;1
+Sumatera Utara;Serdang Bedagai;41.54;0.0299;0.0499;0.1207;1;1;0.2769;0.4302
+Sumatera Utara;Batu Bara;53.95;0.036;0.0143;1;1;1;0.3775;0.3488
+Sumatera Utara;Padang Lawas Utara;46.62;0.0187;0.0307;1;1;1;0.1212;0.0925
+Sumatera Utara;Padang Lawas;46.79;0.0561;0.0268;1;1;1;0.1212;0.0714
+Sumatera Utara;Labuhan Batu Selatan;52.29;0;0.0347;0.6351;1;1;0.8809;0.1094
+Sumatera Utara;Labuhan Batu Utara;60.13;0;0.0463;1;0.8226;1;0.8061;0.5339
+Sumatera Utara;Nias Utara;48.61;0.1492;0.0564;0.7444;1;1;0.3073;0.1456
+Sumatera Utara;Nias Barat;61.17;0.4926;0.1166;1;1;1;0.2762;0.3962
+Sumatera Utara;Kota Sibolga;64.62;0.1383;0.2861;0.0987;1;1;1;1
+Sumatera Utara;Kota Tanjung Balai;57.08;0.0695;0.0715;1;1;1;0.7373;0.1176
+Sumatera Utara;Kota Pematang Siantar;60.52;0.7298;0.1045;0.6995;1;1;0.4676;0.2353
+Sumatera Utara;Kota Tebing Tinggi;68.4;1;0.1105;1;1;1;0.4753;0.2019
+Sumatera Utara;Kota Medan;34.98;0.2215;0.0224;0.7466;0.0963;1;0.2975;0.064
+Sumatera Utara;Kota Binjai;57.25;0.0667;0.0528;1;1;1;0.8205;0.0678
+Sumatera Utara;Kota Padangsidimpuan;61.54;0.4652;0.0156;1;0.7896;1;0.2212;0.8161
+Sumatera Utara;Kota Gunungsitoli;49.38;0.2544;0.0225;1;1;1;0.121;0.0586
+Sumatera Barat;Kepulauan Mentawai;45.67;0.3635;0.033;0.3045;1;1;0.3188;0.1773
+Sumatera Barat;Pesisir Selatan;81.6;1;0.2334;1;1;1;0.7286;0.7498
+Sumatera Barat;Solok;46.27;0.2765;0.0224;0.378;1;1;0.4908;0.0713
+Sumatera Barat;Sijunjung;83.96;0.5201;1;1;1;1;0.4662;0.8907
+Sumatera Barat;Tanah Datar;59.27;0.4983;0.0351;0.902;1;1;0.5239;0.1895
+Sumatera Barat;Padang Pariaman;46.8;0.0745;0.0424;0.9909;0.561;1;0.4236;0.1836
+Sumatera Barat;Agam;47.98;0.2634;0.0941;0.3066;1;1;0.5603;0.1344
+Sumatera Barat;Lima Puluh Kota;85.47;0.7081;1;1;1;1;0.5399;0.7348
+Sumatera Barat;Pasaman;62.79;1;0.0753;0.6198;1;1;0.5875;0.1126
+Sumatera Barat;Solok Selatan;52.91;0.2253;0.1503;1;0.7564;1;0.3889;0.183
+Sumatera Barat;Dharmasraya;52.5;0.1811;0.1557;1;0.2782;1;0.6612;0.399
+Sumatera Barat;Pasaman Barat;58;0.3107;0.0295;1;1;1;0.509;0.2105
+Sumatera Barat;Kota Padang;72.49;1;0.4841;0.4479;0.7047;1;0.7793;0.6581
+Sumatera Barat;Kota Solok;89.61;1;0.5946;1;1;1;0.7851;0.893
+Sumatera Barat;Kota Sawah Lunto;88.33;1;0.5345;1;1;1;0.6486;1
+Sumatera Barat;Kota Padang Panjang;88.22;1;0.643;0.5324;1;1;1;1
+Sumatera Barat;Kota Bukittinggi;74.96;1;0.0887;1;1;1;0.7049;0.4539
+Sumatera Barat;Kota Payakumbuh;77.43;1;0.1392;1;1;1;0.7397;0.5414
+Sumatera Barat;Kota Pariaman;70.99;1;0.0517;1;1;1;0.5328;0.3848
+Riau;Kuantan Singingi;64.78;1;0.0328;0.7294;1;1;0.4915;0.281
+Riau;Indragiri Hulu;60.88;1;0.0524;0.6669;1;1;0.2912;0.251
+Riau;Indragiri Hilir;48.99;0.8929;0.037;0.2396;1;1;0.1832;0.0766
+Riau;Pelalawan;66.96;1;0.0915;0.7684;1;1;0.3252;0.5023
+Riau;Siak;70.06;1;0.0871;0.9314;1;1;0.6055;0.2804
+Riau;Kampar;56.7;1;0.0199;0.3168;1;1;0.3344;0.2978
+Riau;Rokan Hulu;52.69;0.1416;0.0402;1;1;1;0.2608;0.2457
+Riau;Bengkalis;53.86;0.3045;0.0467;1;1;1;0.2976;0.1213
+Riau;Rokan Hilir;50.36;0.1063;0.0349;1;1;1;0.1416;0.2422
+Riau;Kepulauan Meranti;63.19;1;0.0632;0.8271;1;1;0.2323;0.3011
+Riau;Kota Pekanbaru;70.77;1;0.0856;0.6515;1;1;0.7958;0.4211
+Riau;Kota Dumai;68.42;1;0.0533;1;1;1;0.5065;0.2299
+Papua Barat;Fakfak;63.31;0.3187;0.1118;1;1;1;0.4622;0.539
+Papua Barat;Kaimana;59.55;0.8643;0.0503;1;1;1;0.1042;0.1495
+Papua Barat;Teluk Wondama;67.76;1;0.0423;0.5254;1;1;0.1753;1
+Papua Barat;Teluk Bintuni;50.98;0.271;0.0342;1;1;1;0.1003;0.1632
+Papua Barat;Manokwari;46.16;0.6723;0.0538;0.3609;1;0.3095;0.2357;0.5988
+Papua Barat;Manokwari Selatan;30.67;0.1941;0.0065;0;1;0.7801;0.1449;0.0216
+Papua Barat;Pegunungan Arfak;27.98;0.1258;0.1081;0;1;0.5961;0.0957;0.0329
+Jambi;Kerinci;53.15;0.0492;0.0323;1;1;1;0.2944;0.3446
+Jambi;Merangin;41.64;0.028;0.0407;0.182;1;1;0.3301;0.3344
+Jambi;Sarolangun;60.35;0.1006;0.0164;1;0.6905;1;0.4169;1
+Jambi;Batang Hari;55.99;0.7503;0.0281;1;0.5351;1;0.4212;0.1848
+Jambi;Muaro Jambi;55.39;0.2059;0.031;1;1;1;0.4327;0.2075
+Jambi;Tanjung Jabung Timur;57.97;0.2242;0.0523;0.8108;1;1;0.6687;0.3022
+Jambi;Tanjung Jabung Barat;56.39;0.1233;0.2504;1;1;1;0.2694;0.3045
+Jambi;Tebo;56.86;0.0798;0.0399;0.9343;1;1;0.6173;0.3089
+Jambi;Bungo;55.63;0.1473;0.0593;1;1;1;0.2798;0.408
+Jambi;Kota Jambi;60.17;0.4239;0.045;0.9357;1;1;0.6037;0.2035
+Jambi;Kota Sungai Penuh;78.39;1;0.2147;0.7777;1;1;0.9263;0.5687
+Papua ;Jayapura;39.44;0.063;0.098;0.0306;1;1;0.3544;0.2151
+Papua ;Kepulauan Yapen;34.7;0;0.0159;0.203;1;1;0.0568;0.1535
+Papua ;Biak Numfor;22.55;0;0.0147;0.058;1;0.2493;0.1353;0.121
+Papua ;Sarmi;48.89;0.296;0.0237;1;1;1;0.0591;0.0433
+Papua ;Keerom;15.68;0;0.0964;0;0.7965;0.0892;0.1102;0.0053
+Papua ;Waropen;45.47;0;0.0243;1;1;1;0.0427;0.1158
+Papua ;Supiori;67.38;1;0.0645;0.579;1;1;0.4091;0.6642
+Papua ;Mamberamo Raya;35.9;0;0.2765;1;1;0.1914;0.0169;0.0286
+Papua ;Kota Jayapura;34.39;0.7119;0.0231;0.0294;1;0.0716;0.5409;0.0307
+Sumatera Selatan;Ogan Komering Ulu;47.3;0.1531;0.0142;1;0.2961;1;0.414;0.4336
+Sumatera Selatan;Ogan Komering Ilir;35.46;0.1674;0.0122;0.3661;0.0493;1;0.3076;0.5799
+Sumatera Selatan;Muara Enim;62.21;0.6851;0.0317;1;1;1;0.4092;0.2287
+Sumatera Selatan;Lahat;55.24;0.4703;0.0512;0.9734;1;1;0.3355;0.0362
+Sumatera Selatan;Musi Rawas;73.55;1;0.2077;1;1;1;0.4673;0.4735
+Sumatera Selatan;Musi Banyuasin;61.65;0.4778;0.1316;1;1;1;0.3765;0.3294
+Sumatera Selatan;Banyu Asin;63.7;0.3929;0.3622;1;1;1;0.3884;0.3152
+Sumatera Selatan;Ogan Komering Ulu Selatan;52.61;0.2109;0.0633;1;1;1;0.1863;0.2223
+Sumatera Selatan;Ogan Komering Ulu Timur;47.81;0.2778;0.022;1;0.5587;1;0.3223;0.1657
+Sumatera Selatan;Ogan Ilir;59.43;0.4847;0.0253;1;1;1;0.4947;0.1552
+Sumatera Selatan;Empat Lawang;58.92;0.8038;0.0282;0.7785;1;1;0.4638;0.0503
+Sumatera Selatan;Penukal Abab Lematang Ilir;67.98;1;0.0309;1;1;1;0.504;0.2234
+Sumatera Selatan;Musi Rawas Utara;69.55;1;0.1053;1;1;1;0.5452;0.2183
+Sumatera Selatan;Kota Palembang;64.4;0.7787;0.0558;1;1;1;0.5841;0.0895
+Sumatera Selatan;Kota Prabumulih;73.47;1;0.0922;1;1;1;0.7248;0.326
+Sumatera Selatan;Kota Pagar Alam;81.74;1;0.0636;1;1;1;0.6579;1
+Sumatera Selatan;Kota Lubuklinggau;78.68;1;0.088;1;1;1;0.7507;0.6691
+Maluku Utara;Halmahera Barat;58.16;0.5856;0.0325;1;1;1;0.2874;0.1655
+Maluku Utara;Halmahera Tengah;58.03;0.8362;0.1787;0.6118;1;1;0.308;0.1276
+Maluku Utara;Kepulauan Sula;38.85;0;0.0956;0.319;1;1;0.1983;0.1064
+Maluku Utara;Halmahera Selatan;17.82;0.0503;0.0072;0.1712;0.3281;0.279;0.3207;0.091
+Maluku Utara;Halmahera Utara;44.98;0.1644;0.0964;0.5138;1;1;0.1733;0.2005
+Maluku Utara;Halmahera Timur;52.79;0.0818;0.0976;1;1;1;0.3163;0.1996
+Maluku Utara;Pulau Morotai;49.85;0.1008;0.1417;0.8295;1;1;0.2448;0.1731
+Maluku Utara;Pulau Taliabu;52.17;0.1292;0.1809;1;1;1;0.2059;0.1361
+Maluku Utara;Kota Ternate;68.51;1;0.0427;1;1;1;0.4149;0.3384
+Maluku Utara;Kota Tidore Kepulauan;64.22;0.8735;0.1005;0.4466;1;1;0.4451;0.6295
+Bengkulu;Bengkulu Selatan;50.01;0.147;0.0464;0.3526;1;1;0.6667;0.2878
+Bengkulu;Rejang Lebong;60.77;0.2311;0.0487;1;1;1;0.7576;0.2165
+Bengkulu;Bengkulu Utara;60.72;0.1569;0.0606;1;1;1;0.6102;0.423
+Bengkulu;Kaur;70.34;0.6363;0.064;1;1;1;0.5548;0.6684
+Bengkulu;Seluma;54.45;0.152;0.032;1;1;1;0.4154;0.2122
+Bengkulu;Mukomuko;57.68;0;0.0506;1;1;1;0.488;0.4989
+Bengkulu;Lebong;48.86;0;0.0133;0.6891;1;1;0.6076;0.1104
+Bengkulu;Kepahiang;46.88;0.2922;0.0302;1;1;0.2747;0.5893;0.0949
+Bengkulu;Bengkulu Tengah;60.38;1;0.0288;0.6742;1;1;0.4263;0.0975
+Bengkulu;Kota Bengkulu;60.53;0.3313;0.0339;1;1;1;0.7368;0.1349
+Maluku;Kepulauan Tanimbar;57.62;0.0401;0.3658;1;1;1;0.314;0.3138
+Maluku;Maluku Tenggara;48.01;0.0604;0.1614;1;1;0.4581;0.35;0.3308
+Maluku;Maluku Tengah;52.41;0.4039;0.0071;0.84;1;1;0.2264;0.1913
+Maluku;Buru;54.88;0.2536;0.054;0.9002;1;1;0.3413;0.2924
+Maluku;Kepulauan Aru;41.26;0.1204;0.026;0.3646;1;1;0.2526;0.1246
+Maluku;Seram Bagian Barat;39.96;0.0229;0.0489;0.5754;1;0.8297;0.2985;0.0214
+Maluku;Seram Bagian Timur;70.36;0.4183;1;1;1;1;0.2567;0.25
+Maluku;Maluku Barat Daya;48.01;0;0.0727;0.5826;1;1;0.1716;0.5335
+Maluku;Buru Selatan;48.96;1;0.0299;0.0827;1;1;0.177;0.1376
+Maluku;Kota Ambon;64.03;0.2297;0.0276;1;1;1;1;0.225
+Maluku;Kota Tual;57.45;0.4831;0.0918;0.7362;1;1;0.5084;0.2017
+Sulawesi Barat;Majene;74.95;1;0.0443;0.8801;1;1;0.9927;0.3293
+Sulawesi Barat;Polewali Mandar;43.5;0.1223;0.0243;0.5972;0.1545;1;0.1993;0.9474
+Sulawesi Barat;Mamasa;48.87;0.3604;0.2421;0.335;1;1;0.1199;0.3636
+Sulawesi Barat;Mamuju;52.54;0.1838;0.0436;0.9503;1;1;0.2888;0.2117
+Sulawesi Barat;Pasangkayu;30.59;0.0252;0.0038;0;1;0.6621;0.3553;0.0951
+Sulawesi Barat;Mamuju Tengah;45.34;0.1428;0.0375;0.2552;1;1;0.3523;0.3858
+Lampung;Lampung Barat;63.08;0.0659;0.0056;1;1;1;1;0.3444
+Lampung;Tanggamus;49.04;0.1838;0.0395;0.1094;1;1;0.8926;0.2073
+Lampung;Lampung Selatan;45.76;0.0462;0.0588;1;0.1594;1;0.3085;0.6304
+Lampung;Lampung Timur;43.61;0.1419;0.018;1;0.1671;1;0.2366;0.4891
+Lampung;Lampung Tengah;44.58;0.0583;0.0148;1;0.8094;1;0.1771;0.0611
+Lampung;Lampung Utara;43.04;0.126;0.0368;1;0.2633;1;0.2066;0.3801
+Lampung;Way Kanan;54.87;0.4002;0.0247;1;1;1;0.294;0.122
+Lampung;Tulangbawang;59.58;0.4232;0.0531;1;1;1;0.4977;0.1969
+Lampung;Pesawaran;57.75;0.5696;0.0191;1;1;1;0.4311;0.0224
+Lampung;Pringsewu;51.81;0.1898;0.0059;1;0.469;1;0.2627;0.6993
+Lampung;Mesuji;56.3;0.1182;0.095;1;1;1;0.5711;0.157
+Lampung;Tulang Bawang Barat;64.11;1;0.0749;1;1;1;0.3864;0.0265
+Lampung;Pesisir Barat;52.89;0.2124;0.0046;1;1;1;0.4761;0.0096
+Lampung;Kota Bandar Lampung;66.28;0.5455;0.1288;1;1;1;0.7167;0.2488
+Lampung;Kota Metro;92.86;1;1;1;1;1;0.7873;0.7127
+Gorontalo;Boalemo;65.5;0.6733;0.0114;1;1;1;0.4835;0.4168
+Gorontalo;Gorontalo;61.21;0.5078;0.0349;1;1;1;0.2943;0.4477
+Gorontalo;Pohuwato;68.54;1;0.0817;1;1;1;0.4358;0.2803
+Gorontalo;Bone Bolango;70.56;1;0.1501;1;1;1;0.4423;0.3471
+Gorontalo;Gorontalo Utara;70.69;0.9917;0.0455;1;1;1;0.4634;0.4476
+Gorontalo;Kota Gorontalo;74.98;1;0.0514;1;1;1;0.7338;0.4633
+Bangka Belitung;Bangka;81.01;1;0.0353;0.8121;1;1;0.8237;1
+Bangka Belitung;Belitung;74.27;1;0.0292;1;1;1;0.7937;0.3763
+Bangka Belitung;Bangka Barat;78.87;1;0.0874;1;1;1;0.7987;0.635
+Bangka Belitung;Bangka Tengah;72.49;1;0.1044;1;1;1;0.7559;0.2139
+Bangka Belitung;Bangka Selatan;73.97;1;0.0556;1;1;1;0.6679;0.4546
+Bangka Belitung;Belitung Timur;83.04;1;0.246;1;1;1;0.7897;0.7771
+Bangka Belitung;Kota Pangkal Pinang;71.83;1;0.1637;1;1;1;0.6383;0.2264
+Kepulauan Riau;Karimun;59.48;0.5541;0.0293;0.775;1;1;0.6169;0.1885
+Kepulauan Riau;Bintan;70.35;0.7088;0.0302;1;1;1;0.985;0.2003
+Kepulauan Riau;Natuna;82.45;1;0.1001;1;1;1;0.6715;1
+Kepulauan Riau;Lingga;72.15;0.8751;0.4895;1;1;1;0.5585;0.1273
+Kepulauan Riau;Kepulauan Anambas;73.67;0.9443;0.1412;1;1;1;0.6667;0.4051
+Kepulauan Riau;Kota Batam;50.68;0.1812;0.1314;1;0.6254;1;0.5442;0.0651
+Kepulauan Riau;Kota Tanjung Pinang;68.73;0.9902;0.05;1;1;1;0.6563;0.1149
+Sulawesi Tenggara;Buton;66.77;0.1676;0.1709;1;1;1;0.9326;0.4028
+Sulawesi Tenggara;Muna;56.31;0.2351;0.0168;1;1;1;0.4878;0.2018
+Sulawesi Tenggara;Konawe;36.47;0.5445;0.0222;0.0896;0.8316;0.4012;0.4125;0.2514
+Sulawesi Tenggara;Kolaka;46.71;0.1117;0.0347;0.1377;1;1;0.5771;0.4086
+Sulawesi Tenggara;Konawe Selatan;66.28;0.7709;0.0219;1;1;1;0.3517;0.4951
+Sulawesi Tenggara;Bombana;59.81;0.212;1;0.4135;1;1;0.4269;0.1341
+Sulawesi Tenggara;Wakatobi;64.71;0.0867;0.0546;1;1;1;0.3884;1
+Sulawesi Tenggara;Kolaka Utara;76.14;1;0.2611;0.9892;1;1;0.387;0.6929
+Sulawesi Tenggara;Buton Utara;67.62;0.181;0.0949;1;1;1;0.8667;0.5906
+Sulawesi Tenggara;Konawe Utara;82.78;0.8533;1;1;0.9891;1;0.3893;0.563
+Sulawesi Tenggara;Kolaka Timur;46.85;0.3921;0.0392;0.1734;1;1;0.2537;0.4212
+Sulawesi Tenggara;Konawe Kepulauan;61.68;0.5862;0.0482;1;1;1;0.3942;0.289
+Sulawesi Tenggara;Muna Barat;52.4;0.1767;0.0065;0.9925;1;1;0.1824;0.3098
+Sulawesi Tenggara;Buton Tengah;45.62;0.0841;0.0971;0.2748;1;1;0.4127;0.3248
+Sulawesi Tenggara;Buton Selatan;53.95;0.2092;0.0696;0.1734;1;1;0.4023;0.9221
+Sulawesi Tenggara;Kota Kendari;79.02;0.6447;0.0974;1;1;1;0.9428;0.8461
+Sulawesi Tenggara;Kota Baubau;60.3;0.4269;0.1439;1;1;1;0.4215;0.229
+Sulawesi Selatan;Kepulauan Selayar;92.63;1;1;1;0.5636;1;0.9208;1
+Sulawesi Selatan;Bulukumba;86.73;1;1;1;1;1;0.6138;0.4571
+Sulawesi Selatan;Bantaeng;77.17;1;1;1;0.1988;1;0.6113;0.5918
+Sulawesi Selatan;Jeneponto;81.32;0.5967;1;1;1;1;0.6681;0.4278
+Sulawesi Selatan;Takalar;67.61;0.041;1;1;1;1;0.5309;0.1609
+Sulawesi Selatan;Gowa;65.12;0.1596;0.6733;1;1;1;0.4135;0.3123
+Sulawesi Selatan;Sinjai;84.99;1;1;0.3259;1;1;0.8776;0.7457
+Sulawesi Selatan;Maros;83.57;0.7801;1;1;1;1;0.626;0.4436
+Sulawesi Selatan;Pangkajene Dan Kepulauan;93.66;1;1;1;1;1;0.5561;1
+Sulawesi Selatan;Barru;91.94;1;1;1;1;1;0.6244;0.8112
+Sulawesi Selatan;Bone;80.02;0.7932;1;1;1;1;0.2999;0.5083
+Sulawesi Selatan;Soppeng;82.95;0.8792;1;1;1;1;0.6053;0.3218
+Sulawesi Selatan;Wajo;63.43;0.1778;1;1;0.5641;1;0.3137;0.3842
+Sulawesi Selatan;Sidenreng Rappang;93.69;0.8476;1;1;1;1;1;0.7111
+Sulawesi Selatan;Pinrang;73.49;0.4917;1;1;1;1;0.3695;0.2827
+Sulawesi Selatan;Enrekang;89.67;1;1;1;1;1;0.5184;0.7586
+Sulawesi Selatan;Luwu;60.02;0.0473;1;1;0.3241;1;0.2518;0.5784
+Sulawesi Selatan;Tana Toraja;76.43;0.3179;1;1;1;1;0.4097;0.6228
+Sulawesi Selatan;Luwu Utara;84.03;1;1;1;1;1;0.4119;0.47
+Sulawesi Selatan;Luwu Timur;86.37;1;1;1;1;1;0.7308;0.315
+Sulawesi Selatan;Toraja Utara;82.11;0.1957;1;1;1;1;0.5584;0.9934
+Sulawesi Selatan;Kota Makassar;73.78;1;0.1703;1;1;1;0.4917;0.5024
+Sulawesi Selatan;Kota Parepare;92.46;1;1;1;1;1;0.7257;0.7465
+Sulawesi Selatan;Kota Palopo;86.95;1;1;1;1;1;0.749;0.3372
+DKI Jakarta;Kepulauan Seribu;82.49;1;1;1;1;1;0.3;0.4745
+DKI Jakarta;Kota Jakarta Selatan;72.39;0.3174;1;1;1;1;0.705;0.045
+DKI Jakarta;Kota Jakarta Timur;69.89;0.2497;1;1;1;1;0.5504;0.0923
+DKI Jakarta;Kota Jakarta Pusat;79.1;0.6829;1;1;1;1;0.8131;0.0409
+DKI Jakarta;Kota Jakarta Barat;67.86;0.1827;1;1;1;1;0.4704;0.0971
+DKI Jakarta;Kota Jakarta Utara;69.31;0.1798;1;1;1;1;0.5628;0.1094
+Jawa Barat;Bogor;38.19;0.0876;0.0544;0.1144;1;1;0.2807;0.1363
+Jawa Barat;Sukabumi;55.6;0.0534;1;1;0.4941;1;0.2638;0.0808
+Jawa Barat;Cianjur;28.13;0.0688;0.0046;1;0.127;0.3963;0.3223;0.05
+Jawa Barat;Bandung;53.7;0.0713;0.001;1;1;1;0.5853;0.1017
+Jawa Barat;Garut;49.21;0.1808;0.0102;1;1;0.795;0.2913;0.1676
+Jawa Barat;Tasikmalaya;52.48;0.0629;0.0152;1;1;1;0.3384;0.2568
+Jawa Barat;Ciamis;62.85;0.1022;0.042;1;1;1;0.9713;0.2843
+Jawa Barat;Kuningan;53.96;0.5518;0.0176;0.2289;1;1;0.8079;0.171
+Jawa Barat;Cirebon;51.54;0.0918;0.025;1;1;1;0.4454;0.0456
+Jawa Barat;Majalengka;58.47;0.6552;0.0238;1;0.7408;1;0.6055;0.0678
+Jawa Barat;Sumedang;61.26;0.0728;0.7362;1;0.3986;1;0.7972;0.2831
+Jawa Barat;Indramayu;73.78;0.6558;0.6193;1;0.404;1;1;0.4854
+Jawa Barat;Subang;47.63;0.1047;0.0095;1;1;0.7927;0.3773;0.0502
+Jawa Barat;Purwakarta;55.55;0.2066;0.0235;1;1;1;0.4709;0.1873
+Jawa Barat;Karawang;46.12;0.0768;0.0745;0.3307;1;1;0.5072;0.2391
+Jawa Barat;Bekasi;36.4;0.1353;0.0065;1;0.0926;1;0.2769;0.0368
+Jawa Barat;Bandung Barat;53.6;0.2017;0.0149;1;1;1;0.4418;0.0936
+Jawa Barat;Pangandaran;44.85;0.0636;0.258;1;0.3197;1;0.153;0.3455
+Jawa Barat;Kota Bogor;52;0.9497;0.0102;1;0.1252;1;0.466;0.0892
+Jawa Barat;Kota Sukabumi;82.15;1;0.4566;1;1;1;0.8695;0.4245
+Jawa Barat;Kota Bandung;75.7;0.2844;0.4515;0.6179;1;1;0.9648;0.9802
+Jawa Barat;Kota Cirebon;87.75;0.5055;1;1;1;1;1;0.6369
+Jawa Barat;Kota Bekasi;51.79;0.1593;0.0145;1;1;1;0.3829;0.0684
+Jawa Barat;Kota Depok;74.44;0.2837;0.4412;1;1;1;0.486;1
+Jawa Barat;Kota Cimahi;57.78;0.1565;0.0267;1;1;1;0.7276;0.1336
+Jawa Barat;Kota Tasikmalaya;76.45;0.2965;1;1;1;1;0.6511;0.4038
+Jawa Barat;Kota Banjar;68.56;0.4359;0.0731;1;1;1;1;0.2902
+Sulawesi Tengah;Banggai Kepulauan;64.73;1;0.0486;0.5842;1;1;0.5075;0.3909
+Sulawesi Tengah;Banggai;49.15;0.0943;0.0212;1;0.6552;1;0.3408;0.3292
+Sulawesi Tengah;Morowali;61.68;0;0.0423;1;1;1;0.9901;0.2849
+Sulawesi Tengah;Poso;60.31;0.1385;0.0241;1;1;1;0.4871;0.572
+Sulawesi Tengah;Donggala;51.56;0.1226;0.0204;1;0.9811;1;0.3193;0.1656
+Sulawesi Tengah;Toli-Toli;52.87;0.1968;0.0291;1;1;1;0.24;0.2352
+Sulawesi Tengah;Buol;57.76;0.5228;0.0651;1;1;1;0.3632;0.0922
+Sulawesi Tengah;Parigi Moutong;51.38;0.056;0.0776;1;1;1;0.2707;0.1924
+Sulawesi Tengah;Tojo Una-Una;50.62;0.1328;0.0233;1;0.6122;1;0.3543;0.4207
+Sulawesi Tengah;Sigi;66.4;0.5528;0.0645;1;1;1;0.5039;0.527
+Sulawesi Tengah;Banggai Laut;50;0.1051;0.068;1;1;1;0.1587;0.1684
+Sulawesi Tengah;Morowali Utara;53.1;0.1702;0.0247;1;1;1;0.3864;0.1355
+Sulawesi Tengah;Kota Palu;85.45;0.8255;1;1;0.6987;1;0.6785;0.7785
+Sulawesi Utara;Bolaang Mongondow;41.63;0.0099;0.0091;1;0.244;1;0.4207;0.2305
+Sulawesi Utara;Minahasa;51.76;0.1213;0.046;1;1;1;0.262;0.1941
+Sulawesi Utara;Kepulauan Sangihe;55.02;0.3746;0.0746;1;1;1;0.1701;0.2325
+Sulawesi Utara;Kepulauan Talaud;48.9;0;0.1041;0.7602;1;1;0.241;0.3179
+Sulawesi Utara;Minahasa Selatan;64.68;1;0.0178;1;1;1;0.3027;0.207
+Sulawesi Utara;Minahasa Utara;56.49;0.1962;0.0628;1;1;1;0.4392;0.2562
+Sulawesi Utara;Bolaang Mongondow Utara;55.04;0.2661;0.0242;1;1;1;0.2962;0.2662
+Sulawesi Utara;Siau Tagulandang Biaro;48.65;0.0689;0.0938;1;1;1;0.0418;0.2008
+Sulawesi Utara;Minahasa Tenggara;52.35;0;0.1267;1;1;1;0.3056;0.2324
+Sulawesi Utara;Bolaang Mongondow Selatan;46.84;0.4547;0.1077;0.0417;1;1;0.4756;0.1994
+Sulawesi Utara;Bolaang Mongondow Timur;39.78;0.1083;0.0981;0.0982;1;1;0.4063;0.0736
+Sulawesi Utara;Kota Manado;57.42;0.319;0.0449;1;1;1;0.54;0.1159
+Sulawesi Utara;Kota Bitung;52.31;0.0979;0.0235;1;1;1;0.3986;0.1416
+Sulawesi Utara;Kota Tomohon;67.23;0.2472;0.0143;1;1;1;0.4444;1
+Sulawesi Utara;Kota Kotamobagu;56.51;0.1395;0.11;1;1;1;0.5372;0.1689
+Jawa Tengah;Cilacap;45.5;0.4865;0.02;0.2653;0.6917;1;0.5184;0.2028
+Jawa Tengah;Banyumas;52.57;0.4222;0.1746;0.1569;1;1;0.584;0.3421
+Jawa Tengah;Purbalingga;54.69;0.1642;0.0605;1;1;1;0.4478;0.1554
+Jawa Tengah;Banjarnegara;60.84;0.9555;0.2254;0.253;1;1;0.5273;0.2979
+Jawa Tengah;Kebumen;71.8;1;0.1243;1;1;1;0.5446;0.357
+Jawa Tengah;Purworejo;35.88;0.1285;0.0051;0.6124;0.104;1;0.5169;0.1446
+Jawa Tengah;Wonosobo;63.81;0.1924;0.004;1;1;1;0.8106;0.4596
+Jawa Tengah;Magelang;61.88;0.2095;0.0081;1;1;1;0.5701;0.544
+Jawa Tengah;Boyolali;45.58;0.1111;0.0471;0.0676;1;1;0.7104;0.254
+Jawa Tengah;Klaten;43.57;0.1195;0.0194;1;0.2955;1;0.5574;0.058
+Jawa Tengah;Sukoharjo;70.5;0.7364;1;0.0558;1;1;0.7903;0.3523
+Jawa Tengah;Wonogiri;55.63;0.0993;0.0204;1;1;1;0.5812;0.193
+Jawa Tengah;Karanganyar;66.57;0.0897;0.081;1;1;1;1;0.4889
+Jawa Tengah;Sragen;47.01;0.0756;0.0349;0.1362;1;1;0.6836;0.3605
+Jawa Tengah;Grobogan;40.45;0.0425;0.0237;1;0.0807;1;0.5407;0.144
+Jawa Tengah;Blora;64.27;0.1492;0.5783;1;1;1;0.676;0.0957
+Jawa Tengah;Rembang;58.74;0.0691;0.1671;1;1;1;0.7637;0.1116
+Jawa Tengah;Pati;45.22;0.3975;0.1185;0.627;0.2671;1;0.3677;0.3877
+Jawa Tengah;Kudus;64.63;0.2218;0.4499;0.3107;1;1;0.6098;0.9321
+Jawa Tengah;Jepara;58.78;0.0734;0.3101;1;0.822;1;0.4911;0.4183
+Jawa Tengah;Demak;50.8;0.1145;0.0505;0.5183;1;1;0.4842;0.3886
+Jawa Tengah;Semarang;54.94;0.861;0.025;0.2304;1;1;0.5966;0.1326
+Jawa Tengah;Temanggung;55.7;0.2688;0.1882;0.4925;1;1;0.598;0.3514
+Jawa Tengah;Kendal;55.72;0.1161;0.3056;1;0.7079;1;0.5837;0.1874
+Jawa Tengah;Batang;49.9;0.0154;0.0318;0.586;1;1;0.4851;0.3745
+Jawa Tengah;Pekalongan;47.58;0.2002;0.0803;0.1211;1;1;0.5471;0.3822
+Jawa Tengah;Pemalang;52.05;0.0616;0.0127;1;1;1;0.519;0.0501
+Jawa Tengah;Tegal;70.65;1;0.1556;1;1;1;0.4185;0.3717
+Jawa Tengah;Brebes;62.51;1;0.0407;0.9166;0.7959;1;0.4043;0.2183
+Jawa Tengah;Kota Magelang;93.11;1;0.5178;1;1;1;1;1
+Jawa Tengah;Kota Surakarta;76.41;0.9895;0.0426;0.3167;1;1;1;1
+Jawa Tengah;Kota Salatiga;94.48;1;1;1;1;1;1;0.6138
+Jawa Tengah;Kota Semarang;68.69;0.4624;0.5111;0.9276;1;1;0.8324;0.0744
+Jawa Tengah;Kota Pekalongan;76.26;0.0726;0.3086;1;1;1;1;0.9572
+Jawa Tengah;Kota Tegal;58.89;0.2756;0.0501;0.8689;0.7866;1;1;0.141
+DI Yogyakarta;Kulon Progo;84.88;1;0.7336;0.4149;1;1;0.7931;1
+DI Yogyakarta;Bantul;68.6;0.7699;0.2373;0.9288;0.0284;1;0.8374;1
+DI Yogyakarta;Gunung Kidul;73.54;0.4475;0.14;1;1;1;0.7765;0.7835
+DI Yogyakarta;Sleman;68.9;1;0.0071;1;1;1;0.6869;0.129
+DI Yogyakarta;Kota Yogyakarta;90.54;0.9039;0.5182;1;1;1;0.9154;1
+Kalimantan Utara;Malinau;67.67;1;0.051;1;1;1;0.3006;0.3851
+Kalimantan Utara;Bulungan;64.76;1;0.0301;0.9873;1;1;0.2589;0.2571
+Kalimantan Utara;Tana Tidung;72.89;1;0.3895;1;1;1;0.3679;0.3448
+Kalimantan Utara;Nunukan;54.84;0.3841;0.0545;1;1;1;0.2179;0.1822
+Kalimantan Utara;Kota Tarakan;66.15;1;0.0359;1;1;1;0.4375;0.1567
+Kalimantan Timur;Paser;62.73;1;0.0268;0.4568;1;1;0.6331;0.2746
+Kalimantan Timur;Kutai Barat;53.63;0.3267;0.0673;0.703;1;1;0.3871;0.2703
+Kalimantan Timur;Kutai Kartanegara;56.94;0.6502;0.0218;0.7397;1;1;0.2817;0.2921
+Kalimantan Timur;Kutai Timur;57.87;0.4266;0.1557;0.5555;1;1;0.6711;0.2421
+Kalimantan Timur;Berau;72.67;1;0.0847;1;1;1;0.6804;0.3217
+Kalimantan Timur;Penajam Paser Utara;63.69;1;0.0503;0.3102;1;1;0.5294;0.5683
+Kalimantan Timur;Mahakam Ulu;63.67;1;0.006;1;1;0.2311;1;0.2196
+Kalimantan Timur;Kota Balikpapan;65.8;0.8101;0.0466;0.2077;1;1;0.8431;0.6984
+Kalimantan Timur;Kota Samarinda;64.1;0.533;0.0157;1;1;1;0.676;0.2626
+Kalimantan Timur;Kota Bontang;78.07;1;0.0494;1;1;1;0.5803;0.8355
+Jawa Timur;Pacitan;65.16;0.5144;0.1845;1;1;1;0.4745;0.3878
+Jawa Timur;Ponorogo;58.06;0.1582;0.1282;1;1;1;0.4072;0.3706
+Jawa Timur;Trenggalek;84.17;0.8653;0.4802;1;1;1;0.5654;0.9814
+Jawa Timur;Tulungagung;58.4;0.6853;0.2872;1;0.4658;1;0.4661;0.1836
+Jawa Timur;Blitar;69.95;0.7196;0.5774;1;1;1;0.3754;0.224
+Jawa Timur;Kediri;66.53;0.3351;1;0.8634;1;1;0.3137;0.1447
+Jawa Timur;Malang;48.83;0.2616;0.0432;1;0.2932;1;0.5832;0.2368
+Jawa Timur;Lumajang;53.87;0.1891;0.2261;1;1;1;0.2905;0.0651
+Jawa Timur;Jember;37.67;0.0516;0.0405;0.3341;0.2413;1;0.5579;0.4112
+Jawa Timur;Banyuwangi;65.58;1;0.1706;0.7106;1;1;0.6073;0.102
+Jawa Timur;Bondowoso;64.28;1;0.053;0.6471;1;1;0.2803;0.5191
+Jawa Timur;Situbondo;62.81;0.745;0.0503;1;1;1;0.4278;0.1734
+Jawa Timur;Probolinggo;35.92;0.1487;0.0197;0.4864;0.3534;1;0.1904;0.3156
+Jawa Timur;Pasuruan;47.66;0.1868;0.0247;0.8029;1;1;0.2221;0.0998
+Jawa Timur;Sidoarjo;54.83;0.1521;0.0418;1;1;1;0.3902;0.2537
+Jawa Timur;Mojokerto;72.12;0.1985;1;1;1;1;0.2509;0.5987
+Jawa Timur;Jombang;49.18;0.2358;0.5238;1;0.2876;1;0.2331;0.1621
+Jawa Timur;Nganjuk;75.83;0.038;1;1;1;1;0.2698;1
+Jawa Timur;Madiun;48.87;0.264;0.0547;0.5551;1;1;0.3888;0.1581
+Jawa Timur;Magetan;55.12;0.059;0.0299;0.9077;1;1;0.4469;0.4153
+Jawa Timur;Ngawi;65.31;1;0.022;1;1;1;0.4446;0.1051
+Jawa Timur;Bojonegoro;52.66;0.3479;0.0257;1;1;1;0.2196;0.0933
+Jawa Timur;Tuban;55.44;0.3286;0.0887;1;1;1;0.2586;0.2051
+Jawa Timur;Lamongan;63.86;0.5067;0.0833;1;0.6443;1;0.2691;0.9671
+Jawa Timur;Gresik;54.51;0.2851;0.0243;1;1;1;0.3495;0.1568
+Jawa Timur;Bangkalan;53.92;0.161;0.0675;1;1;1;0.2949;0.2507
+Jawa Timur;Sampang;79.66;0.4572;1;1;1;1;0.2404;0.8788
+Jawa Timur;Pamekasan;75.02;1;0.5262;1;1;1;0.2292;0.4957
+Jawa Timur;Sumenep;47.09;0.1012;0.013;0.4448;1;1;0.1933;0.5439
+Jawa Timur;Kota Kediri;63.16;0.4319;0.032;1;1;1;0.4913;0.4659
+Jawa Timur;Kota Blitar;80.75;1;0.0691;1;1;1;0.8611;0.7221
+Jawa Timur;Kota Malang;94.22;1;1;1;1;1;0.8609;0.7346
+Jawa Timur;Kota Probolinggo;82.9;1;0.9169;1;1;1;0.513;0.3727
+Jawa Timur;Kota Pasuruan;84.38;1;0.4061;1;1;1;0.7087;0.7919
+Jawa Timur;Kota Mojokerto;80.03;1;0.1939;1;1;1;0.537;0.8711
+Jawa Timur;Kota Madiun;93.94;1;0.7975;1;1;1;0.8319;0.9462
+Jawa Timur;Kota Surabaya;84.32;0.5386;1;1;0.7188;1;0.6453;1
+Jawa Timur;Kota Batu;83;1;0.0491;1;1;1;0.761;1
+Banten;Pandeglang;51.77;0.0727;0.0385;1;1;1;0.2958;0.2172
+Banten;Lebak;50.26;0.0837;0.0338;1;1;1;0.2574;0.1436
+Banten;Tangerang;49.93;0.1253;0.0212;1;1;1;0.2257;0.1227
+Banten;Serang;47.83;0.3321;0.0073;1;0.6589;1;0.2807;0.0695
+Banten;Kota Tangerang;54.25;0.2603;0.0513;1;1;1;0.3871;0.099
+Banten;Kota Cilegon;58.16;0.3609;0.0438;1;1;1;0.58;0.0863
+Banten;Kota Serang;46.76;0.1221;0.0187;1;1;0.3268;0.5175;0.288
+Banten;Kota Tangerang Selatan;54.69;0.3627;0.0214;1;1;1;0.3843;0.06
+Kalimantan Selatan;Tanah Laut;38.23;0.1454;0.0143;0.3436;0.4709;1;0.6014;0.1006
+Kalimantan Selatan;Kota Baru;60.23;1;0.145;1;0.2592;1;0.3906;0.4211
+Kalimantan Selatan;Banjar;67.23;1;0.0191;1;1;1;0.5506;0.1361
+Kalimantan Selatan;Barito Kuala;58.92;0.4895;0.0163;1;1;1;0.4972;0.1216
+Kalimantan Selatan;Tapin;79.6;1;0.101;0.8207;1;1;0.6506;1
+Kalimantan Selatan;Hulu Sungai Selatan;70.48;0.2261;0.0717;1;1;1;0.6357;1
+Kalimantan Selatan;Hulu Sungai Tengah;57.53;0.7603;0.2423;0.1811;1;1;0.4917;0.352
+Kalimantan Selatan;Hulu Sungai Utara;82.34;1;0.414;1;1;1;0.7107;0.6392
+Kalimantan Selatan;Tabalong;79.04;0.6887;0.1856;1;1;1;0.7682;0.8905
+Kalimantan Selatan;Tanah Bumbu;61.03;0.3581;0.1067;1;1;1;0.5057;0.3016
+Kalimantan Selatan;Balangan;67.73;1;0.0706;0.4895;0.5464;1;0.6348;1
+Kalimantan Selatan;Kota Banjarmasin;73.57;0.4794;0.2215;1;1;1;0.8382;0.6111
+Kalimantan Selatan;Kota Banjar Baru;70.33;0.7719;0.102;1;1;1;0.8319;0.2173
+Kalimantan Tengah;Kotawaringin Barat;68.26;0.8366;0.2451;1;1;1;0.4979;0.1985
+Kalimantan Tengah;Kotawaringin Timur;56.57;0.7166;0.0048;1;0.866;1;0.2491;0.1233
+Kalimantan Tengah;Kapuas;61.89;0.8388;0.0065;1;1;1;0.3393;0.1477
+Kalimantan Tengah;Barito Selatan;52;0.3599;0.0508;0.4701;1;1;0.3568;0.4023
+Kalimantan Tengah;Barito Utara;46.72;0.1716;0.0415;0.1121;1;1;0.5945;0.3509
+Kalimantan Tengah;Sukamara;80.04;1;0.0165;1;1;1;0.7639;0.8227
+Kalimantan Tengah;Lamandau;59.38;0.7185;0.068;0.308;1;1;0.3694;0.6927
+Kalimantan Tengah;Seruyan;62.32;1;0.1277;1;0.5621;1;0.3309;0.3415
+Kalimantan Tengah;Katingan;55.89;0.2439;0.0159;1;1;1;0.1898;0.4628
+Kalimantan Tengah;Pulang Pisau;66.13;1;0.0371;1;0.9022;1;0.2923;0.3974
+Kalimantan Tengah;Gunung Mas;48.88;0.6149;0.0084;0.4015;1;1;0.2099;0.187
+Kalimantan Tengah;Barito Timur;64.07;1;0.0918;1;1;1;0.3567;0.0361
+Kalimantan Tengah;Murung Raya;29.15;0.0441;0.2511;0.0993;0.4847;1;0.102;0.0593
+Kalimantan Tengah;Kota Palangka Raya;65.4;0.8009;0.0154;1;1;1;0.4421;0.3196
+Bali;Jembrana;56;0.0534;0.0415;1;1;1;0.6387;0.1865
+Bali;Tabanan;53.96;0.1864;0.0142;1;1;1;0.5064;0.0704
+Bali;Badung;72.7;0.828;0.0429;1;1;1;0.7715;0.4463
+Bali;Gianyar;54.8;0.0716;0.0253;1;0.7504;1;0.6083;0.3804
+Bali;Klungkung;61.07;0.4556;0.0329;1;1;1;0.5281;0.2579
+Bali;Bangli;54.94;0.0562;0.0223;1;1;1;0.5924;0.1749
+Bali;Karang Asem;55.85;0.044;0.0413;0.9324;1;1;0.7004;0.1917
+Bali;Buleleng;65;0.6848;0.0126;1;1;1;0.7822;0.0703
+Bali;Kota Denpasar;71.92;0.6123;0.0155;1;1;1;0.7552;0.6516
+Kalimantan Barat;Sambas;71.42;1;0.1336;1;1;1;0.5642;0.3014
+Kalimantan Barat;Bengkayang;69.74;1;0.0431;1;1;1;0.7683;0.0706
+Kalimantan Barat;Landak;51.46;0.5612;0.0158;0.616;1;1;0.3436;0.0657
+Kalimantan Barat;Mempawah;73.89;1;0.0392;1;1;1;0.7125;0.4203
+Kalimantan Barat;Sanggau;66.17;0.1268;0.3851;1;1;1;0.48;0.64
+Kalimantan Barat;Ketapang;63.62;0.2703;0.8379;0.422;1;1;0.4524;0.4709
+Kalimantan Barat;Sintang;51.35;0.3928;0.0235;0.3816;1;1;0.4594;0.3372
+Kalimantan Barat;Kapuas Hulu;58.36;0.1667;0.0351;1;1;1;0.3003;0.5829
+Kalimantan Barat;Sekadau;56.29;0.1282;0.0578;0.9925;1;1;0.4127;0.349
+Kalimantan Barat;Melawi;57.07;0.9361;0.0166;0.6952;1;0.7393;0.3349;0.2729
+Kalimantan Barat;Kayong Utara;74.9;0.4195;0.0484;1;1;1;1;0.7752
+Kalimantan Barat;Kubu Raya;58.64;0.5344;0.0451;1;1;1;0.3944;0.1308
+Kalimantan Barat;Kota Pontianak;75.39;0.9257;0.3459;1;1;1;0.7726;0.2328
+Kalimantan Barat;Kota Singkawang;67.99;0.4659;0.1;1;1;1;0.8031;0.3899
+Nusa Tenggara Barat;Lombok Barat;46.34;0.346;0.0108;1;0.2682;1;0.4207;0.198
+Nusa Tenggara Barat;Lombok Tengah;41.94;0.4847;0.0336;0.1339;1;1;0.239;0.0444
+Nusa Tenggara Barat;Lombok Timur;44.4;0.483;0.0328;1;0.1661;1;0.2866;0.1398
+Nusa Tenggara Barat;Sumbawa;53.3;0.289;0.2257;0.392;1;1;0.4498;0.3745
+Nusa Tenggara Barat;Dompu;54;0.0834;0.9231;1;0.3722;1;0.2621;0.1394
+Nusa Tenggara Barat;Bima;41.2;0.1184;0.0068;1;0.2169;1;0.3365;0.2053
+Nusa Tenggara Barat;Sumbawa Barat;70.6;1;0.0501;1;1;1;0.5034;0.3885
+Nusa Tenggara Barat;Lombok Utara;61.2;1;0.0614;0.7712;1;1;0.3349;0.1167
+Nusa Tenggara Barat;Kota Mataram;69.38;1;0.0325;0.464;1;1;0.8499;0.5105
+Nusa Tenggara Barat;Kota Bima;65.48;1;0.074;0.8933;1;1;0.5488;0.0673
+Nusa Tenggara Timur;Sumba Barat;55.32;0;0.0974;1;1;1;0.5078;0.2673
+Nusa Tenggara Timur;Sumba Timur;51.46;0.1206;0.0643;0.4299;0.6733;1;0.3143;1
+Nusa Tenggara Timur;Kupang;29.39;0.0593;0.0237;1;0.2498;0.0958;0.3632;0.2657
+Nusa Tenggara Timur;Timor Tengah Selatan;55.13;0.0435;0.0436;1;1;1;0.3267;0.4456
+Nusa Tenggara Timur;Timor Tengah Utara;70.67;1;0.04;0.9339;1;1;0.6538;0.3195
+Nusa Tenggara Timur;Belu;80.78;1;0.0557;1;1;1;0.5989;1
+Nusa Tenggara Timur;Alor;54.56;0.1385;0.0434;1;1;1;0.2861;0.3513
+Nusa Tenggara Timur;Lembata;67.81;0.2504;0.0651;1;1;1;0.4312;1
+Nusa Tenggara Timur;Flores Timur;43.45;0.1048;0.0449;1;0.5226;1;0.3198;0.0497
+Nusa Tenggara Timur;Sikka;55.84;0.2141;0.239;0.3449;1;1;0.7389;0.372
+Nusa Tenggara Timur;Ende;45.35;0.1005;0.026;0.5181;1;1;0.3041;0.2259
+Nusa Tenggara Timur;Ngada;62.43;0.2498;0.2489;1;1;1;0.4669;0.4047
+Nusa Tenggara Timur;Manggarai;41.89;0.1181;0.0431;1;0.7918;0.7406;0.2306;0.0079
+Nusa Tenggara Timur;Rote Ndao;56.19;0.2184;0.0403;0.9232;1;1;0.4698;0.2817
+Nusa Tenggara Timur;Manggarai Barat;47.88;0.2749;0.0355;0.6617;1;1;0.2061;0.1731
+Nusa Tenggara Timur;Sumba Tengah;60.02;0;0.1564;1;1;1;0.56;0.4853
+Nusa Tenggara Timur;Sumba Barat Daya;53.52;0.0406;0.1254;1;1;1;0.3343;0.2461
+Nusa Tenggara Timur;Nagekeo;61.5;0.1506;0.1045;1;1;1;0.5409;0.5087
+Nusa Tenggara Timur;Manggarai Timur;61.79;0.472;0.0538;1;1;1;0.2412;0.5583
+Nusa Tenggara Timur;Sabu Raijua;63.28;0.5119;0.048;1;1;1;0.4466;0.4229
+Nusa Tenggara Timur;Malaka;69.01;0.6775;0.0545;1;1;1;0.6062;0.4928
+Nusa Tenggara Timur;Kota Kupang;61.81;0.3705;0.0287;1;1;1;0.7348;0.193
